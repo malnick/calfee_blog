@@ -1,9 +1,12 @@
 ---
 layout: page
-title: "About"
-date: 2014-12-24 07:21
+title: "about"
+date: 2014-12-24 07:48
 comments: true
 sharing: true
 footer: true
 ---
-This blog is all about bikes, in particular those from Calfee Designs. There's also some rides, some parts and some beer. Feel free to drop me questions: malnick at google mail dot com. 
+A blog about the finest bikes, parts, accessories, clothing, rides and beer. Classy, modern, refined and inspired. These are the bikes.
+
+Contact: malnick at google mail dot com
+
